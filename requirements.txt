@@ -1,2 +1,2 @@
 --extra-index-url https://test.pypi.org/pypi/
-chia-blockchain-test==0.0.1
+strayer-chia-blockchain-test3==0.0.1
